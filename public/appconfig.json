@@ -1,0 +1,14 @@
+{
+  "basemap": "https://tiles.arcgis.com/tiles/IYrj3otxNjPsrTRD/arcgis/rest/services/Travel_Center_Basemap/MapServer",
+  "plannedConstructionLine": "https://data.wsdot.wa.gov/TravelCenterQA/PlannedConstruction/PlannedConstructionLine.json",
+  "plannedConstructionPoint": "https://data.wsdot.wa.gov/TravelCenterQA/PlannedConstruction/PlannedConstructionPoint.json",
+  "mileMarkers": "https://tiles.arcgis.com/tiles/IYrj3otxNjPsrTRD/arcgis/rest/services/Travel_Center_Milepost_Values/VectorTileServer",
+  "stateRouteShieldsLayer": "https://tiles.arcgis.com/tiles/IYrj3otxNjPsrTRD/arcgis/rest/services/Travel_Center_Highway_Shields/MapServer",
+  "ferryRoutesReferenceLayer": "https://tiles.arcgis.com/tiles/IYrj3otxNjPsrTRD/arcgis/rest/services/FerryRoutes_Final/MapServer",
+  "esriPlacesReferenceLayer": "http://services.arcgisonline.com/arcgis/rest/services/Reference/World_Boundaries_and_Places/MapServer?f=jsapi",
+  "esriRoadsReferenceLayer": "http://services.arcgisonline.com/arcgis/rest/services/Reference/World_Transportation/MapServer",
+  "traffic": "https://utility.arcgis.com/usrsvcs/appservices/G9CkczziK8rxtWpL/rest/services/World/Traffic/MapServer",
+  "googleAnalyticsID": "G-RBQE8K3PSW",
+  "layerRefreshMinute": 5,
+  "wsdotRoot": "https://wsdot.wa.gov"
+}

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="278" height="4" fill="none">
+    <path fill="#fff" stroke="#FF6A13" stroke-width=".2" d="M.1.1h277.8v3.8H.1z"/>
+    <path fill="#FF6A13" fill-rule="evenodd" d="M133.322 0H113.56l-5.807 4h19.757l5.812-4Zm14.173 4 5.807-4h19.763l-5.812 4h-19.758Zm45.549-4-5.806 4h19.757l5.812-4h-19.763Zm59.506 0h-19.763l-5.807 4h19.757l5.813-4Zm14.173 4 5.806-4H278v4h-11.277ZM53.838 0H34.075l-5.807 4h19.757l5.813-4ZM68.01 4l5.806-4H93.58l-5.812 4H68.01ZM14.095 0H0v4h8.283l5.812-4Z" clip-rule="evenodd"/>
+</svg>
